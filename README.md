@@ -19,7 +19,7 @@ I am the 5th child of 7 children, my father passed on when I was 6yrs old and I 
 siblings after me. My mother raised all seven of us by herself with some help of my extended
 family every so often. I was married in Samoa and had my first son there before migrating to New
 Zealand with my family in early 1984, where we had three of our other children. We lived there for
-10yrs before moving to Australia in 1994.,/p>
+10yrs before moving to Australia in 1994.</p>
 
 <p>I completed some courses in New Zealand that were relevant to different positions that I was
 undertaking at the time, whilst raising my children and taking care of my family.</p>
