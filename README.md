@@ -1,5 +1,3 @@
-# my-profile
-
 <h1>My Profile</h1>
 
 <h2>Personal Intro</h2>
