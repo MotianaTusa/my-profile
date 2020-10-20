@@ -8,6 +8,8 @@
 
 <p>Email: s3873180@student.rmit.edu.au</p>
 
+<img src="Motiana.jpg" width="300" height="300">
+
 <h2>Background</h2>
 
 <p>I was born and raised in Western, Samoa a beautiful Polynesian island country in the heart of the
