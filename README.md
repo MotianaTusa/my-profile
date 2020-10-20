@@ -8,7 +8,7 @@
 
 <p>Email: s3873180@student.rmit.edu.au</p>
 
-<img src="Motiana.jpg" width="300" height="300">
+<img src="Motiana.jpeg" width="300" height="300">
 
 <h2>Background</h2>
 
