@@ -99,7 +99,7 @@ other students and tutors to achieve our common goals. Also building respectful 
 towards everyone and everything will make learning enjoyable and easier and master IT
 leadership skills and strategies in preparations for future achievements.</p>
 
-<img src="Ideal Job.png" width="900" height="900"> 
+<img src="Ideal Job.png" width="500" height="900"> 
 
 <h1>Ideal Job</h1>
 
