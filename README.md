@@ -151,7 +151,7 @@ the position, building on those you have now.</p>
 
 <h1>Personal Profile</h1>
 
-<h1>Test 1 - Personality</h1>
+<h2>Test 1 - Personality</h2>
 
 <p>www.16personalities.com</p>
 
@@ -210,7 +210,7 @@ personal growth and make you a much happier and more well-rounded person.</p>
 
 <p>https://personalitymax.com</p>
 
-IMAGE
+<img src="Learning.png">
 
 <p>Discover how you learn by hearing, seeing and doing.</p>
 
@@ -232,7 +232,8 @@ improve teaching methods in order to reach learners of all types</p>
 
 <p>Kinesthetic Learning and You:</p>
 
-IMAGE
+<img src="Kinesthetic.png">
+
 <p>Kinesthetic style is learning by doing. You learn in this manner whenever you capture new
 information through the process of physical activity. It is often referred to as a hands-on learning
 experience.</p>
@@ -264,7 +265,7 @@ practice balancing, steering and pedaling. This experience ultimately taught you
 
 <h1>Visual Learning and you</h1>
 
-IMAGE
+<img src="Kinesthetic2.png">
 
 <h1>Visual is your secondary learning style.</h1>
 
@@ -298,7 +299,8 @@ They often feel a need to convert spoken instruction into visual form by taking 
 <p>Notices visual details that others might miss</p>
 
 <h1>Auditory Learning and You:</h1>
-IMAGE
+
+<img src="Kinesthetic3.png">
 
 <p>Auditory is your least preferred learning style.</p>
 
@@ -383,7 +385,7 @@ taking into consideration the need for new ideas and dynamism.</p>
 
 <h1>Project Idea</h1>
 
-<p>Overview</p>
+<h2>Overview</h2>
 
 <p>The project involves the creation of an application for iPhone and Android that teaches virtues to
 build moral character with the target audience being children and youth. This app will be created
@@ -395,7 +397,7 @@ crosswords and quizzes etc. Users will be able to communicate with friends and t
 progress as they make their way through the various moral dilemmas aimed at developing
 character.</p>
 
-<p>Motivation:</p>
+<h2>Motivation:</h2>
 
 <p>My motivation for creating this application is to provide a resource for young children and
 adolescents to use to help build and strengthen moral character.
@@ -404,7 +406,8 @@ particularly and I believe with the creation of an app targeted towards this dem
 to virtues (e.g. assertiveness, confidence, courtesy etc.) will help young people make better
 choices, when faced with a difficult or challenging situation.</p>
 
-<p>Description:</p>
+<h2>Description:</h2>
+
 <p>The project involves the creation of an application for iOS and Android that teaches virtues to
 build moral character with the target audience being children and youth, this is to address the
 alarming number of incidents among young people with the law, their daily activities, their
@@ -430,7 +433,7 @@ and the whole community.
 With more young people owning or having access to a mobile phone, now more than ever, it will
 be easily accessible.</p>
 
-<p>Technologies</p>
+<h2>Technologies</h2>
 
 <p>As already stated the UI will be created using Appery.io platform, a cloud based mobile app
 builder - It has simple template based and drag and drop UI design, which can be used to build a
@@ -438,7 +441,7 @@ database based on the "The Virtues Project". As it is cloud based the use of a l
 mobile phone is possible for creation of the app. This however, is not open source and does come
 at a cost ($135/month for Team development) but allows for collaboration in real-time.</p>
 
-<p>Skills Required</p>
+<h2>Skills Required</h2>
 
 <p>Skills required for the creation of the app are minimal given the ease of use of the Appery.io
 platform. The drag and drop feature allows for code to be auto-generated, basic knowledge of
@@ -446,7 +449,7 @@ laptop and/or mobile phone use to access the platform is required. Also, when co
 team then communicating over any of the video based apps, as well as, Appery itself in real-time
 will assist with its creation.</p>
 
-<p>Outcome</p>
+<h2>Outcome</h2>
 
 <p>The main aim of this project is to improve the lives of one the most vulnerable groups of our
 community. If it all goes well, it will benefit society as a whole as there will hopefully be more
