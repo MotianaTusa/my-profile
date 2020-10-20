@@ -210,7 +210,7 @@ personal growth and make you a much happier and more well-rounded person.</p>
 
 <p>https://personalitymax.com</p>
 
-<img src="Learning.png">
+<img src="Test2.png">
 
 <p>Discover how you learn by hearing, seeing and doing.</p>
 
