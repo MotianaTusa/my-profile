@@ -265,7 +265,7 @@ practice balancing, steering and pedaling. This experience ultimately taught you
 
 <h1>Visual Learning and you</h1>
 
-<img src="Kinesthetic2.png">
+<img src="Kinesthetic.png">
 
 <h1>Visual is your secondary learning style.</h1>
 
