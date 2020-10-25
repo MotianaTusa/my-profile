@@ -2,11 +2,11 @@
 
 <h2>Personal Intro</h2>
 
-<p>Name: Motiana Tusa</p>
+<h3>Name: Motiana Tusa</h3>
 
-<p>Student ID#: 3873180</p>
+<h3>Student ID#: 3873180</h3>
 
-<p>Email: s3873180@student.rmit.edu.au</p>
+<h3>Email: s3873180@student.rmit.edu.au</h3>
 
 <img src="Motiana.jpeg" width="300" height="400">
 
